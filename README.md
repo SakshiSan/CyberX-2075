@@ -14,7 +14,8 @@ A futuristic cyborg-themed landing page developed for the Techfest IIT Bombay 20
 - JavaScript
 
 ## Live Demo
-Coming Soon
+
+https://sakshisan.github.io/CyberX-2075/
 
 ## Video Demonstration
 Coming Soon
