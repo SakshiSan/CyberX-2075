@@ -20,16 +20,18 @@ https://sakshisan.github.io/CyberX-2075/
 ## Video Demonstration
 Coming Soon
 
-## Screenshots
+## Images
 
 Desktop View
 
 Homepage
+
 Footer Section
 
 Mobile View
 
 Homepage
+
 Footer Section
 
 
