@@ -21,7 +21,17 @@ https://sakshisan.github.io/CyberX-2075/
 Coming Soon
 
 ## Screenshots
-Screenshots will be added after project deployment.
+
+Desktop View
+
+Homepage
+Footer Section
+
+Mobile View
+
+Homepage
+Footer Section
+
 
 ## Author
 Campus Ambassador, Techfest IIT Bombay 2026
